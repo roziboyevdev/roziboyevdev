@@ -1,4 +1,4 @@
-![logo](https://github.com/roziboyevdev/Abubakir_Git/blob/main/1664665818733.jpeg)
+![logo](https://github.com/roziboyevdev/roziboyevdev/blob/main/1664665818733.jpeg)
 <h1 align="center">Hi 👋, I'm Abubakir Ro'ziboyev</h1>
 <h3 align="center">BCompSc. Computer Science | Flutter Developer</h3>
 
