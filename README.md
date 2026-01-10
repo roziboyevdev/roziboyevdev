@@ -43,21 +43,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roziboyevdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/roziboyevdev">
+  <a href="https://t.me/abubakr_roziboyev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://instagram.com/roziboyevdev">
+  <a href="https://instagram.com/abubakr.roziboyev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/roziboyevdev">
