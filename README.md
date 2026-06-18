@@ -1,68 +1,32 @@
-<h1 align="center">Hi 👋, I'm Abubakir</h1>
-<h3 align="center">Flutter Developer • Python Backend • Telegram Bot Builder</h3>
+# Abubakir Roziboyev
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roziboyevdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+**Software Engineer | Mobile & Backend Developer**
+
+I am a software engineer focused on building robust backend systems and seamless cross-platform mobile experiences. My work revolves around creating scalable solutions, optimizing application performance, and automating complex workflows.
+
+### 💻 Technical Expertise
+
+- **Mobile Architecture**: Developing high-performance, cross-platform applications using **Flutter** and **Dart**.
+- **Backend & APIs**: Designing scalable RESTful services and asynchronous applications using **Python** (**FastAPI**, **Aiogram**, **Telethon**) and **Node.js**.
+- **Cloud & Infrastructure**: Managing deployments, real-time databases, and server environments using **Firebase** and **Linux**.
+- **Core Principles**: Emphasizing Clean Architecture, secure authentication systems, and writing maintainable, well-documented code.
+
+### 🚀 Featured Work & Interests
+
+- Architecting comprehensive Telegram bot ecosystems for business automation and efficiency.
+- Building custom administrative dashboards and secure access management systems.
+- Exploring system design, database optimization, and scalable backend patterns.
+
+---
+
+<p align="left">
+  <b>GitHub Metrics</b><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=roziboyevdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziboyevdev&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="300"/>
 </p>
 
 ---
 
-### 🚀 About Me
+### 📫 Connect
 
-- 📱 Flutter developer (Android / iOS)
-- 🐍 Python backend & automation
-- 🤖 Telegram bots (Aiogram, Telethon)
-- 🎓 Student & self-taught programmer
-- ⚡ I build **real products**, not just demos
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,firebase,nodejs,git,github,linux" alt="Tech Stack" />
-</p>
-
----
-
-### 📌 What I Build
-
-- 📲 Mobile applications (Flutter)
-- 🤖 Telegram bots & automation
-- 🔐 Auth systems & APIs
-- 📊 Admin panels & dashboards
-- ⚙️ Custom tools for real businesses
-
----
-
-### 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roziboyevdev&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
-</div>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://t.me/abubakr_roziboyev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/abubakr.roziboyev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/roziboyevdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <i>Code. Build. Improve. Repeat.</i>
-</p>
+[Telegram](https://t.me/abubakr_roziboyev) • [Instagram](https://instagram.com/abubakr.roziboyev) • [LinkedIn](https://linkedin.com/) 
