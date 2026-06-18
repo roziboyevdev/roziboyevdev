@@ -7,15 +7,15 @@ I build applications that solve practical problems, focusing mainly on Flutter f
 ### Areas of Focus
 
 * **Mobile Development:** Building cross-platform apps for iOS and Android using Flutter and Dart.
-* **Backend Systems:** Designing RESTful APIs and backend services with Python (FastAPI) and Node.js.
+* **Backend Systems:** Designing RESTful APIs and backend services with Python (FastAPI).
 * **Automation:** Developing complex Telegram bots using Aiogram and Telethon.
-* **Infrastructure:** Working with Linux environments, Docker, and Firebase.
+* **Infrastructure:** Working with Linux environments, Docker, Firebase, and setting up CI/CD pipelines.
 
 ### Tech Stack
 
-* **Languages:** Dart, Python, JavaScript
-* **Frameworks & Libraries:** Flutter, FastAPI, Node.js
-* **Tools:** Git, Linux, Docker, Firebase
+* **Languages:** Dart, Python
+* **Frameworks & Libraries:** Flutter, FastAPI
+* **Tools:** Git, Linux, Docker, Firebase, CI/CD
 
 ### GitHub Metrics
 
