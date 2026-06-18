@@ -17,10 +17,15 @@ I build applications that solve practical problems, focusing mainly on Flutter f
 * **Frameworks & Libraries:** Flutter, FastAPI, Node.js
 * **Tools:** Git, Linux, Docker, Firebase
 
+### GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=roziboyevdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziboyevdev&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="300"/>
+</p>
+
 ### Contact
 
 If you'd like to get in touch, you can reach me through the links below:
 
-* [Telegram](https://t.me/abubakr_roziboyev)
-* [Instagram](https://instagram.com/abubakr.roziboyev)
-* [GitHub](https://github.com/roziboyevdev)
+[Telegram](https://t.me/abubakr_roziboyev) • [Instagram](https://instagram.com/abubakr.roziboyev) • [GitHub](https://github.com/roziboyevdev)
