@@ -23,19 +23,7 @@ I build practical applications using Flutter for mobile development and Python f
 
 ### GitHub Metrics
 
-<p align="left">
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub Statistics"
-    width="400"
-  />
-
-  <img
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repositories by Language"
-    width="400"
-  />
-</p>
+<p align="left"><img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Statistics" width="400" /> <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories by Language" width="400" /></p>
 
 <p align="left">
   <img
