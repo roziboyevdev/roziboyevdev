@@ -25,22 +25,23 @@ I build practical applications using Flutter for mobile development and Python f
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roziboyevdev&theme=transparent"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
     alt="GitHub Statistics"
-    height="170"
+    width="400"
   />
+
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roziboyevdev&theme=transparent"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
     alt="Repositories by Language"
-    height="170"
+    width="400"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roziboyevdev&theme=transparent"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="GitHub Profile Details"
-    width="700"
+    width="805"
   />
 </p>
 
