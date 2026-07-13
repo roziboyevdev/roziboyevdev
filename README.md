@@ -1,31 +1,53 @@
 # Abubakir Roziboyev
 
-Hello. I'm a software developer focused on mobile and backend engineering. 
+Hello, I'm Abubakir, a software developer focused on mobile and backend development.
 
-I build applications that solve practical problems, focusing mainly on Flutter for the frontend and Python for the backend. I'm interested in clean code, system architecture, and building tools that automate repetitive tasks.
+I build practical applications using Flutter for mobile development and Python for backend systems. I also work with APIs, Telegram bots, automation tools, and application architecture.
 
 ### Areas of Focus
 
-* **Mobile Development:** Building cross-platform apps for iOS and Android using Flutter and Dart.
-* **Backend Systems:** Designing RESTful APIs and backend services with Python (FastAPI).
-* **Automation:** Developing complex Telegram bots using Aiogram and Telethon.
-* **Infrastructure:** Working with Linux environments, Docker, Firebase, and setting up CI/CD pipelines.
+- **Mobile Development:** Building cross-platform applications for Android and iOS using Flutter and Dart.
+- **Backend Development:** Creating REST APIs and backend services using Python and FastAPI.
+- **Automation:** Developing Telegram bots and automation tools with Aiogram and Telethon.
+- **Development Tools:** Working with Git, Linux, Docker, Firebase, and CI/CD workflows.
 
 ### Tech Stack
 
-* **Languages:** Dart, Python
-* **Frameworks & Libraries:** Flutter, FastAPI
-* **Tools:** Git, Linux, Docker, Firebase, CI/CD
+- **Languages:** Dart, Python
+- **Mobile:** Flutter
+- **Backend:** FastAPI
+- **State Management:** Riverpod, Bloc, Provider
+- **API and Database:** REST API, Dio, Firebase, SQLite
+- **Architecture:** Clean Architecture, SOLID
+- **Tools:** Git, Linux, Docker, CI/CD
 
 ### GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=roziboyevdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziboyevdev&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="300"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roziboyevdev&theme=transparent"
+    alt="GitHub Statistics"
+    height="170"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roziboyevdev&theme=transparent"
+    alt="Repositories by Language"
+    height="170"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roziboyevdev&theme=transparent"
+    alt="GitHub Profile Details"
+    width="700"
+  />
 </p>
 
 ### Contact
 
-If you'd like to get in touch, you can reach me through the links below:
+You can contact me through the links below:
 
-[Telegram](https://t.me/abubakr_roziboyev) • [Instagram](https://instagram.com/abubakr.roziboyev) • [GitHub](https://github.com/roziboyevdev)
+[Telegram](https://t.me/abubakr_roziboyev) •
+[Instagram](https://instagram.com/abubakr.roziboyev) •
+[GitHub](https://github.com/roziboyevdev)
