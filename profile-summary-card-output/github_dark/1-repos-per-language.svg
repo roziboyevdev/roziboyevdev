@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-labelledby="title desc">
+  <title id="title">Main programming languages</title>
+  <desc id="desc">Dart and Python are the main languages used by roziboyevdev</desc>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="38" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">Main Languages</text>
+  <text x="24" y="78" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600">Dart</text>
+  <rect x="24" y="91" width="352" height="10" rx="5" fill="#21262d"/>
+  <rect x="24" y="91" width="238" height="10" rx="5" fill="#58a6ff"/>
+  <text x="24" y="132" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="600">Python</text>
+  <rect x="24" y="145" width="352" height="10" rx="5" fill="#21262d"/>
+  <rect x="24" y="145" width="176" height="10" rx="5" fill="#3fb950"/>
+  <text x="376" y="176" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Updated automatically</text>
+</svg>
