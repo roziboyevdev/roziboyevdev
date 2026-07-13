@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub statistics for roziboyevdev</title>
+  <desc id="desc">Public repositories and development focus</desc>
+  <rect x="0.5" y="0.5" width="399" height="189" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="38" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">GitHub Statistics</text>
+  <circle cx="30" cy="77" r="5" fill="#58a6ff"/>
+  <text x="46" y="82" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Public repositories</text>
+  <text x="350" y="82" text-anchor="end" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">8</text>
+  <circle cx="30" cy="116" r="5" fill="#3fb950"/>
+  <text x="46" y="121" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Main focus</text>
+  <text x="350" y="121" text-anchor="end" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Mobile + Backend</text>
+  <circle cx="30" cy="155" r="5" fill="#a371f7"/>
+  <text x="46" y="160" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">Profile</text>
+  <text x="350" y="160" text-anchor="end" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600">@roziboyevdev</text>
+</svg>
