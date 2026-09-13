@@ -26,70 +26,65 @@ I build practical applications using Flutter for mobile development and Python f
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/Caloriefy">
-        <img src="https://github.com/Caloriefy.png" width="72" height="72" alt="Caloriefy" />
-        <br />
-        <sub><b>Caloriefy</b></sub>
-      </a>
+      <img src="https://github.com/Caloriefy.png" width="72" height="72" alt="Caloriefy" />
+      <br />
+      <sub><b>Caloriefy</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/Edu-Zone-Dev">
-        <img src="https://github.com/Edu-Zone-Dev.png" width="72" height="72" alt="Edu Zone Dev" />
-        <br />
-        <sub><b>Edu Zone Dev</b></sub>
-      </a>
+      <img src="https://github.com/Edu-Zone-Dev.png" width="72" height="72" alt="Edu Zone Dev" />
+      <br />
+      <sub><b>Edu Zone Dev</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/Girls-In-Stem">
-        <img src="https://github.com/Girls-In-Stem.png" width="72" height="72" alt="Girls In STEM" />
-        <br />
-        <sub><b>Girls In STEM</b></sub>
-      </a>
+      <img src="https://github.com/Girls-In-Stem.png" width="72" height="72" alt="Girls In STEM" />
+      <br />
+      <sub><b>Girls In STEM</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/KRK-Tech">
-        <img src="https://github.com/KRK-Tech.png" width="72" height="72" alt="KRK Tech" />
-        <br />
-        <sub><b>KRK Tech</b></sub>
-      </a>
+      <img src="https://github.com/KRK-Tech.png" width="72" height="72" alt="KRK Tech" />
+      <br />
+      <sub><b>KRK Tech</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/QizlarAkademiyasi">
-        <img src="https://github.com/QizlarAkademiyasi.png" width="72" height="72" alt="Qizlar Akademiyasi" />
-        <br />
-        <sub><b>Qizlar Akademiyasi</b></sub>
-      </a>
+      <img src="https://github.com/QizlarAkademiyasi.png" width="72" height="72" alt="Qizlar Akademiyasi" />
+      <br />
+      <sub><b>Qizlar Akademiyasi</b></sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="140">
-      <a href="https://github.com/Sendora-Free-SMS">
-        <img src="https://github.com/Sendora-Free-SMS.png" width="72" height="72" alt="Sendora Free SMS" />
-        <br />
-        <sub><b>Sendora Free SMS</b></sub>
-      </a>
+      <img src="https://github.com/Sendora-Free-SMS.png" width="72" height="72" alt="Sendora Free SMS" />
+      <br />
+      <sub><b>Sendora Free SMS</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/uStom-Unique-Dentist">
-        <img src="https://github.com/uStom-Unique-Dentist.png" width="72" height="72" alt="uStom" />
-        <br />
-        <sub><b>uStom</b></sub>
-      </a>
+      <img src="https://github.com/uStom-Unique-Dentist.png" width="72" height="72" alt="uStom" />
+      <br />
+      <sub><b>uStom</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/UstozAI">
-        <img src="https://github.com/UstozAI.png" width="72" height="72" alt="Ustoz AI" />
-        <br />
-        <sub><b>Ustoz AI</b></sub>
-      </a>
+      <img src="https://github.com/UstozAI.png" width="72" height="72" alt="Ustoz AI" />
+      <br />
+      <sub><b>Ustoz AI</b></sub>
     </td>
+
     <td align="center" width="140">
-      <a href="https://github.com/YetakchilarPlatformasi">
-        <img src="https://github.com/YetakchilarPlatformasi.png" width="72" height="72" alt="Yetakchilar Platformasi" />
-        <br />
-        <sub><b>Yetakchilar Platformasi</b></sub>
-      </a>
+      <img src="https://github.com/Mehrigiyo-Dev.png" width="72" height="72" alt="Mehrigiyo" />
+      <br />
+      <sub><b>Mehrigiyo</b></sub>
+    </td>
+
+    <td align="center" width="140">
+      <img src="https://github.com/YetakchilarPlatformasi.png" width="72" height="72" alt="Yetakchilar Platformasi" />
+      <br />
+      <sub><b>Yetakchilar Platformasi</b></sub>
     </td>
   </tr>
 </table>
