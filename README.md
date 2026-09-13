@@ -53,7 +53,7 @@ I build practical applications using Flutter for mobile development and Python f
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://github.com/Sendora-Free-SMS.png" width="72" height="72" alt="Sendora Free SMS" />
+      <img src="https://github.com/Sendora-Free-SMS.png" width="72" height="72" alt="Sendora" />
       <br />
       <sub><b>Sendora Free SMS</b></sub>
     </td>
