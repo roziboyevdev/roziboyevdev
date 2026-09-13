@@ -109,14 +109,6 @@ I build practical applications using Flutter for mobile development and Python f
   />
 </p>
 
-<p align="left">
-  <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="GitHub Profile Details"
-    width="805"
-  />
-</p>
-
 ### Contact
 
 You can contact me through the links below:
